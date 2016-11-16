@@ -37,6 +37,8 @@ _**음식을 할 때**, 간을 잘 못 맞추는 사람들이 많아 **불편함
 | ![research1](http://postfiles13.naver.net/MjAxNjExMTZfNjUg/MDAxNDc5MzAzMDI2NzQ3.D0YbNb5Gv-oMcTE0ddMnynq8dXvC25sB32OSTUpfT3cg.Yxne8W-oazwvTeGUhP9z4op0ICd4-cb28eXlir0-Sx8g.PNG.iopk9010/research1.png?type=w3)![research1-1](http://postfiles14.naver.net/MjAxNjExMTZfMzEg/MDAxNDc5MzAzMDI3MjIz.qQG1Vi-C07WTkZyMJl6du4izN3tHl9u_acvUTx-uu00g.gmSY_x5TDffn8FbTv3NFbdMl6JAdH9R_S6JG-96V5GIg.PNG.iopk9010/research1-1.png?type=w3)                **가장 많이** 사용하는 부엌 도구는 계량컵과 스푼같은 ‘재는 도구’ 였습니다. 재기 위해서 뿐 아니라 ‘계량이 가능한 컵’과 ‘계량도 할 수 있는 스푼’처럼 볼 대신이나 전자레인지 용기 등, 멀티로 사용할 수 있는 것이 인기있었습니다.   http://www.muji.com/kr/blog/20160328_332/|
 
 **[결론]** : **음식을 할 때**, 간을 잘 못 맞추는 사람들이 많아 **불편함**을 겪는다.
+
+
 ----------------
 
 
