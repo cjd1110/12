@@ -31,9 +31,9 @@ _**음식을 할 때**, 간을 잘 못 맞추는 사람들이 많아 **불편함
 | **뉴스기사 1 : "추석 앞두고 스마트 주방 용품 인기"** |
 | :-----------  |
 | ![news1](http://postfiles3.naver.net/MjAxNjExMTZfNzcg/MDAxNDc5MzAzMDI1OTE3.zDT0rM59CBvFow_x9vkKc9tNsFCNwJw8R0Zk8R50QJ4g.TTdtXm_OYaxsh_XVvaePkdDZ9EPSKRCbTCjcIbzBzIQg.JPEG.iopk9010/news1.jpg?type=w3)                  **【서울=뉴시스】**김종민 기자 = 추석 명절을 앞두고 주부들의 일손을 덜어줄 이색 스마트 주방용품들이 인기를 끌고 있다. http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160904_0014366905&cID=10401&pID=10400|
-| **뉴스기사 2** |
+| **뉴스기사 2 : 사물인터넷 시대, 알아서 요리해주는 지능형 요리도구 '눈길'** |
 | ![news2](http://postfiles13.naver.net/MjAxNjExMTZfMjkw/MDAxNDc5MzAzMDI2MTMz.8ZqJxM4ZDR-5wb7fhkN3YL557d0yvRY9tnQdXCdl-psg.5VUeZmhLo-3ndgzCObJYxZ2Gh-PdH8iLTSyat5X-TWAg.PNG.iopk9010/news2.png?type=w3)                  **아주경제** 장윤정 기자 = #예비신부 직장인 A씨는 이번 주말 남자친구를 초대해 저녁을 대접할 계획이다.           http://www.ajunews.com/view/20150210110117197  |
-| **설문조사** |
+| **설문조사 : 요리도구 개선-설문조사를 실시** |
 | ![research1](http://postfiles13.naver.net/MjAxNjExMTZfNjUg/MDAxNDc5MzAzMDI2NzQ3.D0YbNb5Gv-oMcTE0ddMnynq8dXvC25sB32OSTUpfT3cg.Yxne8W-oazwvTeGUhP9z4op0ICd4-cb28eXlir0-Sx8g.PNG.iopk9010/research1.png?type=w3)![research1-1](http://postfiles14.naver.net/MjAxNjExMTZfMzEg/MDAxNDc5MzAzMDI3MjIz.qQG1Vi-C07WTkZyMJl6du4izN3tHl9u_acvUTx-uu00g.gmSY_x5TDffn8FbTv3NFbdMl6JAdH9R_S6JG-96V5GIg.PNG.iopk9010/research1-1.png?type=w3)                **가장 많이** 사용하는 부엌 도구는 계량컵과 스푼같은 ‘재는 도구’ 였습니다. 재기 위해서 뿐 아니라 ‘계량이 가능한 컵’과 ‘계량도 할 수 있는 스푼’처럼 볼 대신이나 전자레인지 용기 등, 멀티로 사용할 수 있는 것이 인기있었습니다.   http://www.muji.com/kr/blog/20160328_332/|
 
 **[결론]** : **음식을 할 때**, 간을 잘 못 맞추는 사람들이 많아 **불편함**을 겪는다.
